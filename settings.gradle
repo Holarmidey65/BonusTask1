@@ -1,0 +1,2 @@
+rootProject.name = "KodeCamp Bonus Task"
+include ':app'
